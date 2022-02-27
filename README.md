@@ -49,13 +49,12 @@ Here are some of the front-end websites that I have coded:
 These are the tools and technologies that I know and use on a daily basis:
 <br>
 
-|                                                           ***Languages***                                                            |                                                            ***Tools***                                                            | ***Libraries*** |                                                     ***Frameworks***                                                     |
-| :----------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: | :-------: | :----------------------------------------------------------------------------------------------------------------: |
-| ![Language: JavaScript](https://img.shields.io/badge/JavaScript-informational?style&logo=JavaScript&logoColor=white&color=red) | ![Runtime Env: Node.js](https://img.shields.io/badge/Node.js-informational?style&logo=node.js&logoColor=white&color=purple) |           | ![Framework: Mocha](https://img.shields.io/badge/Mocha-informational?style&logo=Mocha&logoColor=white&color=brown) |
-|       ![Language: Python](https://img.shields.io/badge/Python-informational?style&logo=Python&logoColor=white&color=red)       |        ![OS: Linux](https://img.shields.io/badge/Linux-informational?style&logo=linux&logoColor=white&color=purple)         |           |                                                                                                                    |
-|        ![Language: HTML5](https://img.shields.io/badge/HTML5-informational?style&logo=HTML5&logoColor=white&color=red)         |     ![Version Control: Git](https://img.shields.io/badge/Git-informational?style&logo=git&logoColor=white&color=purple)     |           |                                                                                                                    |
-|          ![Language: CSS3](https://img.shields.io/badge/CSS3-informational?style&logo=CSS3&logoColor=white&color=red)          |                                                                                                                             |           |                                                                                                                    |
-|       ![Language: Shell](https://img.shields.io/badge/Shell-informational?style&logo=gnu-bash&logoColor=white&color=red)
+| ***Languages*** | ***Tools*** | ***Libraries*** | ***Frameworks*** |
+:---------------: | :---------: | :-------------: | :--------------: |
+| ![Language: JavaScript](https://img.shields.io/badge/JavaScript-informational?style&logo=JavaScript&logoColor=white&color=red) | ![Runtime Env: Node.js](https://img.shields.io/badge/Node.js-informational?style&logo=node.js&logoColor=white&color=purple) | | ![Framework: Mocha](https://img.shields.io/badge/Mocha-informational?style&logo=Mocha&logoColor=white&color=brown) | |![Language: Python](https://img.shields.io/badge/Python-informational?style&logo=Python&logoColor=white&color=red) | ![OS: Linux](https://img.shields.io/badge/Linux-informational?style&logo=linux&logoColor=white&color=purple) | | |
+| ![Language: HTML5](https://img.shields.io/badge/HTML5-informational?style&logo=HTML5&logoColor=white&color=red) | ![Version Control: Git](https://img.shields.io/badge/Git-informational?style&logo=git&logoColor=white&color=purple) | | |
+| ![Language: CSS3](https://img.shields.io/badge/CSS3-informational?style&logo=CSS3&logoColor=white&color=red) | | | |
+| ![Language: Shell](https://img.shields.io/badge/Shell-informational?style&logo=gnu-bash&logoColor=white&color=red)
 <br><br>
 
 You can reach out to me by sending me an [email](mailto:armin.p4rvin@gmail.com).
