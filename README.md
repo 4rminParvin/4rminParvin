@@ -26,16 +26,19 @@ Right now, I am working as the email marketing manager and campaign manager at W
 
 ---
 Here are my GitHub statistics:
+
 <a href="https://github.com/4rminParvin">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=4rminParvin&theme=radical" alt="4rmin's GitHub Stats" />
 </a>
 
 These are the languages I have used the most in my projects so far:
+
 <a href="https://github.com/4rminParvin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4rminParvin&theme=radical" />
 </a>
 
-Here are the front-end websites that I have coded:
+Here are some of the front-end websites that I have coded:
+
 <a href="https://github.com/4rminParvin/negar-behrouzi">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4rminParvin&theme=radical&repo=negar-behrouzi" />
 </a>
@@ -44,6 +47,7 @@ Here are the front-end websites that I have coded:
 </a>
 
 These are the tools and technologies that I know and use on a daily basis:
+
 |                                                           ***Languages***                                                            |                                                            ***Tools***                                                            | ***Libraries*** |                                                     ***Frameworks***                                                     |
 | :----------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: | :-------: | :----------------------------------------------------------------------------------------------------------------: |
 | ![Language: JavaScript](https://img.shields.io/badge/JavaScript-informational?style&logo=JavaScript&logoColor=white&color=red) | ![Runtime Env: Node.js](https://img.shields.io/badge/Node.js-informational?style&logo=node.js&logoColor=white&color=purple) |           | ![Framework: Mocha](https://img.shields.io/badge/Mocha-informational?style&logo=Mocha&logoColor=white&color=brown) |
@@ -52,6 +56,7 @@ These are the tools and technologies that I know and use on a daily basis:
 |          ![Language: CSS3](https://img.shields.io/badge/CSS3-informational?style&logo=CSS3&logoColor=white&color=red)          |                                                                                                                             |           |                                                                                                                    |
 |       ![Language: Shell](https://img.shields.io/badge/Shell-informational?style&logo=gnu-bash&logoColor=white&color=red)       |                                                                                                                             |           |                                                                                                                    |
 
-You can reach out to me by sending me an [email](mailto:armin.p4rvin@gmail.com). You can also find me on my social channels:
+You can reach out to me by sending me an [email](mailto:armin.p4rvin@gmail.com).
+You can also find me on my social channels:
 
 [![Social: GitHub](https://img.shields.io/badge/Social-GitHub-informational?style&logo=GitHub&logoColor=white)](https://github.com/4rminparvin) [![Social: Linkedin](https://img.shields.io/badge/Social-LinkedIn-informational?style&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/arminparvin) [![Social: DEV Community](https://img.shields.io/badge/Social-DEV%20Community-informational?style&logo=DEV.to&logoColor=white)](https://dev.to/4rminparvin) [![Social: Medium](https://img.shields.io/badge/Social-Medium-informational?style&logo=Medium&logoColor=white)](https://medium.com/@armin.p4rvin) [![Social: Instagram](https://img.shields.io/badge/Social-Instagram-informational?style&logo=Instagram&logoColor=white)](https://instagram.com/4rminp4rvin/)
