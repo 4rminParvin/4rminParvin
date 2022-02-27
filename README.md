@@ -48,6 +48,7 @@ Here are some of the front-end websites that I have coded:
 <br><br><br>
 These are the tools and technologies that I know and use on a daily basis:
 <br>
+
 |                                                           ***Languages***                                                            |                                                            ***Tools***                                                            | ***Libraries*** |                                                     ***Frameworks***                                                     |
 | :----------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: | :-------: | :----------------------------------------------------------------------------------------------------------------: |
 | ![Language: JavaScript](https://img.shields.io/badge/JavaScript-informational?style&logo=JavaScript&logoColor=white&color=red) | ![Runtime Env: Node.js](https://img.shields.io/badge/Node.js-informational?style&logo=node.js&logoColor=white&color=purple) |           | ![Framework: Mocha](https://img.shields.io/badge/Mocha-informational?style&logo=Mocha&logoColor=white&color=brown) |
