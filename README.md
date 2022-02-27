@@ -57,6 +57,7 @@ These are the tools and technologies that I know and use on a daily basis:
 |          ![Language: CSS3](https://img.shields.io/badge/CSS3-informational?style&logo=CSS3&logoColor=white&color=red)          |                                                                                                                             |           |                                                                                                                    |
 |       ![Language: Shell](https://img.shields.io/badge/Shell-informational?style&logo=gnu-bash&logoColor=white&color=red)       |                                                                                                                             |           |                                                                                                                    |
 <br><br>
+
 You can reach out to me by sending me an [email](mailto:armin.p4rvin@gmail.com).
 You can also find me on my social channels:
 
