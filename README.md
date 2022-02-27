@@ -30,24 +30,24 @@ Here are my GitHub statistics:
 <a href="https://github.com/4rminParvin">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=4rminParvin&theme=radical" alt="4rmin's GitHub Stats" />
 </a>
-<br><br>
+<br><br><br>
 These are the languages I have used the most in my projects so far:
-
+<br>
 <a href="https://github.com/4rminParvin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4rminParvin&theme=radical" />
 </a>
-<br><br>
+<br><br><br>
 Here are some of the front-end websites that I have coded:
-
+<br>
 <a href="https://github.com/4rminParvin/negar-behrouzi">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4rminParvin&theme=radical&repo=negar-behrouzi" />
 </a>
 <a href="https://github.com/4rminParvin/shayan-habibi">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4rminParvin&theme=radical&repo=shayan-habibi" />
 </a>
-<br><br>
+<br><br><br>
 These are the tools and technologies that I know and use on a daily basis:
-
+<br>
 |                                                           ***Languages***                                                            |                                                            ***Tools***                                                            | ***Libraries*** |                                                     ***Frameworks***                                                     |
 | :----------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: | :-------: | :----------------------------------------------------------------------------------------------------------------: |
 | ![Language: JavaScript](https://img.shields.io/badge/JavaScript-informational?style&logo=JavaScript&logoColor=white&color=red) | ![Runtime Env: Node.js](https://img.shields.io/badge/Node.js-informational?style&logo=node.js&logoColor=white&color=purple) |           | ![Framework: Mocha](https://img.shields.io/badge/Mocha-informational?style&logo=Mocha&logoColor=white&color=brown) |
