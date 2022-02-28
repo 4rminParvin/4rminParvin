@@ -1,6 +1,6 @@
-[![Header](https://media-exp1.licdn.com/dms/image/C4D16AQHamhwDyS0WGA/profile-displaybackgroundimage-shrink_350_1400/0/1638820779728?e=1651708800&v=beta&t=lmu23CRHJ5XTRdiRnnViHGZr5Xa_AT1sS5fxTcT-cOg "Header")](https://watchthem.live/)
+[![Header](https://github.com/4rminParvin/4rminParvin/blob/main/1638820779728.jpeg "Header")](https://linkedin.com/in/arminparvin)
 
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello, folks!
+# <img src="https://github.com/4rminParvin/4rminParvin/blob/main/Wave.gif" width="30px"> Hello, folks!
 
 👋🏽 My name is Armin.
 
@@ -22,7 +22,7 @@ Right now, I am working as the email marketing manager and campaign manager at W
 
 > “You will always be fond of me. I represent to you all the sins you never had the courage to commit.”
 > Oscar Wilde, The Picture of Dorian Gray
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Dorian_Gray.svg/1280px-Dorian_Gray.svg.png" width=100>
+<img align="center" src="https://github.com/4rminParvin/4rminParvin/blob/main/Dorian%20Grey.png" width=100>
 
 ---
 Here are my GitHub statistics:
